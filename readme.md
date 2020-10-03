@@ -11,4 +11,4 @@ Um app bem simples feito em react native, que adiciona todos e remove todos
 
 ## Screenshot
 
-<img src="screenshot.png" />
+<img width="250px" src="screenshot.png" />
