@@ -6,23 +6,24 @@ export const Wrapper = styled.SafeAreaView`
 `;
 
 export const Input = styled.TextInput`
-  border: 1px solid black;
-  padding: 10px;
-  width: 100%;
-  height: 40px;
+  border: 1px solid darkgrey;
+  font-size: 18px;
+  margin: 10px;
+  height: 60px;
+  padding: 0px 20px;
 `;
 
 export const Button = styled.TouchableOpacity`
-  width: 100%;
+  /* width: 100%; */
   padding: 20px;
   align-items: center;
   justify-content: center;
   background-color: teal;
   border-radius: 5px;
   position: absolute;
-  bottom: 10;
-  left: 0;
-  right: 0;
+  bottom: 40px;
+  left: 10px;
+  right: 10px;
 `;
 
 export const ButtonText = styled.Text`
